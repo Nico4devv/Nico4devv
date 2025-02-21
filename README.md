@@ -1,4 +1,4 @@
-### ***<div align="center">I'm Nico S, a hobby developer 👨‍💻 from Germany, working since 2018🚀</div>***  
+### ***<div align="center">I'm Nico's, a hobby developer 👨‍💻 from Germany, working since 2018🚀</div>***  
   
   ![Nico](https://discord.c99.nl/widget/theme-4/817435791079768105.png)
 

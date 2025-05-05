@@ -1,6 +1,6 @@
 # Hey, I'm Nico <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1078242409495932969?showDisplayName=true&theme=dark)](https://discord.com/users/817435791079768105)
+[![Discord Presence](https://lanyard.cnrad.dev/api/817435791079768105)](https://discord.com/users/817435791079768105)
 
 ## 🪴 Tools:
 [![](https://skillicons.dev/icons?i=discord)](https://discord.com/ "Discord")

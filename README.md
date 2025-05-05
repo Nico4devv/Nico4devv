@@ -1,85 +1,79 @@
-### ***<div align="center">I'm Nico's, a hobby developer 👨‍💻 from Germany, working since 2018🚀</div>***  
-  
-  ![Nico](https://discord.c99.nl/widget/theme-4/817435791079768105.png)
+# Hey, I'm Nico <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-  [![Discord](https://img.shields.io/discord/1217082356175863908?style=for-the-badge&logo=Discord&logoColor=white&label=Discord&color=blue)](https://discord.gg/KMs7TWypSw)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1078242409495932969?showDisplayName=true&theme=dark)](https://discord.com/users/817435791079768105)
 
-- 🔭 I’m currently working on [Botify](https://botify-bot.de)  
-  
-
-- 🌱 I’m currently learning Java  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
+## 🪴 Tools:
+[![](https://skillicons.dev/icons?i=discord)](https://discord.com/ "Discord")
+[![](https://skillicons.dev/icons?i=bots)](https://discord.dev/ "Discord Bots")
+[![](https://skillicons.dev/icons?i=pycharm)](https://jetbrains.com/pycharm/ "PyCharm")
+[![](https://skillicons.dev/icons?i=webstorm)](https://jetbrains.com/webstorm/ "WebStorm")
+[![](https://skillicons.dev/icons?i=vscode)](https://vscode.dev/ "VSC")
+[![](https://skillicons.dev/icons?i=git)](https://git-scm.com/ "Git")
+[![](https://skillicons.dev/icons?i=github)](https://github.com/ "GitHub")
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## 🎉 Libraries:
+[![](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com/ "FastAPI")
+[![](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/en/3.0.x/ "Flask")
+
+## 💾 Databse
+[![](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/ "SQLite")
+[![](https://skillicons.dev/icons?i=postgresql)](https://postgresql.org/ "PostgreSQL")
+
+
+## 🛠️ Programing Languages:
+[![](https://skillicons.dev/icons?i=py)](https://python.org/ "Python")
+[![](https://skillicons.dev/icons?i=html)](https://de.wikipedia.org/wiki/Hypertext_Markup_Language "HTML")
+[![](https://skillicons.dev/icons?i=js)](https://de.wikipedia.org/wiki/JavaScript "JavaScript")
+[![](https://skillicons.dev/icons?i=css)](https://de.wikipedia.org/wiki/CSS "CSS")
+
+## 📈 Stats:
+<!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2026 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+🌆 Daytime                3993 commits        ███████░░░░░░░░░░░░░░░░░░   26.23 % 
+🌃 Evening                6696 commits        ███████████░░░░░░░░░░░░░░   43.99 % 
+🌙 Night                  2507 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   3509 commits        ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+Tuesday                  1865 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Wednesday                1901 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Thursday                 2242 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Friday                   1419 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Saturday                 1365 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Sunday                   2921 commits        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+YAML                     32 mins             ████████████████░░░░░░░░░   65.93 % 
+Python                   15 mins             ████████░░░░░░░░░░░░░░░░░   32.43 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   19 repos            ████████████████░░░░░░░░░   65.52 % 
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Lua                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+```
 
 
 
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-</div>
 
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Nico4devv&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nico4devv&layout=compact&theme=blueberry)
-
-
-<br/>  
+ Last Updated on 05/05/2025 02:04:09 UTC
+<!--END_SECTION:waka-->
